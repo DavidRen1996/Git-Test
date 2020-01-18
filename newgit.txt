@@ -3,4 +3,4 @@
 3.git clone <GitHub repo URL>
 4.git add <changed-files>
 5.git commit -m “<commit-message>”
-6.git push origin master
+git push origin master
