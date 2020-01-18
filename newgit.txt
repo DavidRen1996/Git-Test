@@ -1,0 +1,6 @@
+git config --global user.email “dyson12345@163.com”
+git config --global user.name “DavidRen1996"
+git clone <GitHub repo URL>
+git add <changed-files>
+b.git commit -m “<commit-message>”
+c.git push origin master
