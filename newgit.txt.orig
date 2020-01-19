@@ -4,64 +4,7 @@
 4.git add <changed-files>
 5.git commit -m “<commit-message>”
 <<<<<<< HEAD
-a.git push origin master
+git push origin master
 =======
-a.git
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+a.git push origin master
+>>>>>>> dev3
