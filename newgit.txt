@@ -3,4 +3,66 @@
 3.git clone <GitHub repo URL>
 4.git add <changed-files>
 5.git commit -m “<commit-message>”
-git push origin master
+<<<<<<< HEAD
+a.git push origin master
+=======
+a.git push origin master
+>>>>>>> dev3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
