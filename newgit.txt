@@ -9,8 +9,6 @@ a.git push origin master
 
 =======
 =======
-a.git
->>>>>>> ad94c25fc6ac4954d643369657609297be321007
 
 
 
