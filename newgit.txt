@@ -1,10 +1,5 @@
-1.git config --global user.email “dyson12345@163.com”
-2.git config --global user.name “DavidRen1996"
-3.git clone <GitHub repo URL>
-4.git add <changed-files>
-5.git commit -m “<commit-message>”
-6.gggu拉动房价阿里打开反对法
-
+fhfjhgjhgjhadfadjfadak
+dfaadkjfhajsklfhlahf
 
 
 
