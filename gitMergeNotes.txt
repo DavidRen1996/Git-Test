@@ -1,0 +1,3 @@
+git merge tool uses the same tool as Linux Vim
+to edit vim need type i
+to exit vim first press esc then :wq(save exit) :q(exit without save)
