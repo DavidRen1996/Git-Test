@@ -7,6 +7,11 @@
 a.git push origin master
 <
 
+<<<<<<< HEAD
+=======
+=======
+===
+>>>>>>> dev4
 
 
 
