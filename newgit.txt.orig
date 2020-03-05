@@ -5,12 +5,13 @@
 5.git commit -m “<commit-message>”
 <<<<<<< HEAD
 a.git push origin master
-<<<<<<< HEAD
+<
 
+<<<<<<< HEAD
 =======
 =======
-a.git
->>>>>>> ad94c25fc6ac4954d643369657609297be321007
+===
+>>>>>>> dev4
 
 
 
