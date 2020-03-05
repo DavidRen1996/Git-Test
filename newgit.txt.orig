@@ -1,20 +1,12 @@
-1.git config --global user.email “dyson12345@163.com”
-2.git config --global user.name “DavidRen1996"
-3.git clone <GitHub repo URL>
-4.git add <changed-files>
-5.git commit -m “<commit-message>”
+xscscsf
 <<<<<<< HEAD
-a.git push origin master
-
-<<<<<<< HEAD
-<<<<<<< HEAD
+AFAFARA
+RFAF
 =======
-=======
-===
->>>>>>> dev4
-=======
->>>>>>> dev4
-
+AFAFAR    ihj
+vjvk
+fufkfu
+>>>>>>> dev2
 
 
 
