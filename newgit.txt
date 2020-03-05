@@ -5,10 +5,7 @@
 5.git commit -m “<commit-message>”
 <<<<<<< HEAD
 a.git push origin master
-<
 
-=======
-===
 
 
 
