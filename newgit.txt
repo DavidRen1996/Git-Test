@@ -3,8 +3,7 @@
 3.git clone <GitHub repo URL>
 4.git add <changed-files>
 5.git commit -m “<commit-message>”
-6.git afiafhadlfhal iohoh
-8.
+6.gggu拉动房价阿里打开反对法
 
 
 
